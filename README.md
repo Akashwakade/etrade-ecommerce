@@ -1,12 +1,35 @@
-# tired-rail-4343
-Trade24 is a clone of E-Trade website which sells different types of stocks.
-
-
-![Trade24](https://github.com/vsachin42/tired-rail-4343/assets/102285506/356e2b9f-7f78-4b77-afc1-6d1f7e63c914)
-
-
-![Screenshot 2023-07-25 161347](https://github.com/vsachin42/tired-rail-4343/assets/102285506/c645f11b-502f-4152-a0a7-369b6b8d041e)
-
-
-
-![Screenshot 2023-07-25 161522](https://github.com/vsachin42/tired-rail-4343/assets/102285506/20ae89a2-0042-4217-9b42-ecf586799ca2)
+<h1>Trade-24 (tired-rail-4343)</h1>
+<hr><p>This clone is an online marketplace for reviewing and buying stocks , and can tally stocks according to 52 weeks high and low data.</p><h2>General Information</h2>
+<hr><ul>
+<li>E-Commerce trading platform.</li>
+</ul>
+<h2>Technologies Used</h2>
+<hr><ul>
+<li>ReactJS</li>
+</ul>
+<ul>
+<li>NodeJs</li>
+</ul>
+<ul>
+<li>Express</li>
+</ul>
+<ul>
+<li>MongoDB</li>
+</ul>
+<ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul>
+<h2>Features</h2>
+<hr><ul>
+<li>Home Page</li>
+</ul><ul>
+<li>Stocks Page</li>
+</ul>
+<ul>
+<li>Single Stocks Page</li>
+</ul><ul>
+<li>Cart Page</li>
+</ul><ul>
+<li>Login &amp; Sign up functionality</li>
